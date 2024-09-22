@@ -10,7 +10,7 @@ _paper link, citation, asbtract and pipeline scheme will be included here_
 The datasets used for the experiments are introduced in :  
 
 **MSTEx** :  
-M. Kalacska, « ICDAR 2015 MultiSpectral Text Extraction Contest (MS-TEx 2015) », https://www.academia.edu/26113049/ICDAR_2015_MultiSpectral_Text_Extraction_Contest_MS_TEx_2015_
+R. Hedjam et al. « ICDAR 2015 MultiSpectral Text Extraction Contest (MS-TEx 2015) », https://www.academia.edu/26113049/ICDAR_2015_MultiSpectral_Text_Extraction_Contest_MS_TEx_2015_
 
 **MSBin** :  
 F. Hollaus, S. Brenner, et R. Sablatnig, « CNN Based Binarization of MultiSpectral Document Images », in 2019 International Conference on Document Analysis and Recognition (ICDAR), Sydney, Australia: IEEE, sept. 2019, p. 533‑538.  
