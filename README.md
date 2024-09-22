@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Attendtion-based-AE-ONMF
-Attention-based Autoencoder-Like Orthognal NMF
-=======
 # Attention based AutoEncoder-like Orthogonal NMF for multispectral image decomposition
 
 ## Introduction
@@ -23,5 +19,3 @@ https://doi.org/10.5281/zenodo.3257365
 
 ## Requirements
 The used libraries are listed in `requirements.txt`.
-
->>>>>>> master
