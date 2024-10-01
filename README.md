@@ -1,4 +1,4 @@
-# Attention based AutoEncoder-like Orthogonal NMF for multispectral image decomposition
+# Attention based AutoEncoder-like Orthogonal NMF
 
 ## Introduction
 This code is a Tensorflow implementation of the Attention based AE-NMF model described in the paper :  
