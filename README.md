@@ -1,7 +1,7 @@
-# Attention based AutoEncoder-like Orthogonal NMF
+# Attention based AutoEncoder
 
 ## Introduction
-This code is a Tensorflow implementation of the Attention based AE-NMF model described in the paper :  
+This code is a Tensorflow implementation of the Attention based AE model described in the paper :  
 _paper link, citation, asbtract and pipeline scheme will be included here_
 
 
